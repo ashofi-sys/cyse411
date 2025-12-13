@@ -32,4 +32,4 @@ jobs:
           target: 'http://localhost:3000'
           fail_action: false
           allow_issue_writing: false
-          cmd_options: '-r idor_report.html -w idor_report.md'
+          cmd_options: '-r idor_report.html'
